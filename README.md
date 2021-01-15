@@ -3,6 +3,9 @@
 
 - It contains a data set and a model for the covid patients
 
+- Data set from  https://covid.ourworldindata.org/data/ecdc/full_data.csv
+
+
 # Sample output
 
 ![](ds.PNG)
